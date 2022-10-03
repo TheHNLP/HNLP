@@ -1,9 +1,9 @@
-# Code of Conduct for the name-lists project
+# Code of Conduct for HNLP
 *Last updated October 2, 2022*
 
 ## 1. Introduction
-This document is the code of conduct for the name-lists project, that all contributors must
-follow.
+This document is the code of conduct for the Human Name Listing Project (HNLP),
+that all contributors must follow.
 
 ## 2. Permitted contributions
 Contributions we welcome include:
@@ -15,7 +15,7 @@ Contributions we welcome include:
 5. Contributions made to enforce this code of conduct.
 
 ## 3. Rules
-These are the rules of conduct within the name-lists project.
+These are the rules of conduct within HNLP.
 1. **Don't do anything illegal.** You must comply with all applicable local, state, federal and
    international laws.
 2. **Be respectful.** Treat everyone respectfully, independently of race, age, gender,
@@ -41,5 +41,5 @@ removed, and a user might be blocked in case of severe or repeated violations as
 measure.
 
 ## 5. Changes to this code of conduct
-This code of conduct might change at any given time. Contributors to the name-lists project will
-be notified before any changes to this code of conduct.
+This code of conduct might change at any given time. Contributors to HNLP will be notified before
+any changes to this code of conduct.
