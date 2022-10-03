@@ -1,5 +1,5 @@
 # The HNLP database specification
-*Version 1.1.0*<br />
+*Version 1.1.1*<br />
 *Last updated October 2, 2022*
 
 This document is a specification for Human Name Listing Project (HNLP) databases that use JSON.
@@ -46,7 +46,6 @@ An array of strings listing the sources used for information on the name definit
 ## 3. Example
 This is an example of a simple database, with a name definition.
 
-`
 <pre>
 {
 	"names": {
@@ -65,4 +64,3 @@ This is an example of a simple database, with a name definition.
 	}
 }
 </pre>
-`
