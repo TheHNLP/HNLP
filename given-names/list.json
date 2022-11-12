@@ -1,34 +1,39 @@
 {
-	"Ashley": {
-		"gender": "x",
-		"meanings": [
-			"ash tree meadow"
-		],
-		"origins": [
-			"English"
-		],
-		"popularityIndex": 1470,
-		"sources": [
-			"Wisner, W. Published August 8, 2021. Ashley: Name Meaning, Origin, Popularity. Verywell Family. Retrieved from <https://www.verywellfamily.com/ashley-name-meaning-origin-popularity-5182489>. Accessed October 25, 2022.",
-			"Forebears.io. Ashley Name Meaning, Origins & Popularity. Forebears.io. Retrieved from <https://forebears.io/forenames/ashley>. Accessed October 25, 2022."
-		]
+	"metadata": {
+		"version": "1.2"
 	},
-	"Michael": {
-		"gender": "m",
-		"meanings": [
-			"Who is like God?"
-		],
-		"origins": [
-			"biblical"
-		],
-		"nicknames": [
-			"Mike",
-			"Mikey"
-		],
-		"popularityIndex": 12,
-		"sources": [
-			"Campbell, M. Published September 25, 2021. Michael: Meaning, origin and history of the name Michael. Behind the Name. Retrieved from <https://www.behindthename.com/name/michael>.",
-			"Plant, R. Published July 3, 2021. Michael Name Meaning. Verywell Family. Retrieved from <https://www.verywellfamily.com/michael-name-meaning-5115812>."
-		]
+	"names": {
+		"Ashley": {
+			"gender": "x",
+			"meanings": [
+				"ash tree meadow"
+			],
+			"origins": [
+				"English"
+			],
+			"popularityIndex": 1470,
+			"sources": [
+				"Wisner, W. Published August 8, 2021. Ashley: Name Meaning, Origin, Popularity. Verywell Family. Retrieved from <https://www.verywellfamily.com/ashley-name-meaning-origin-popularity-5182489>. Accessed October 25, 2022.",
+				"Forebears.io. Ashley Name Meaning, Origins & Popularity. Forebears.io. Retrieved from <https://forebears.io/forenames/ashley>. Accessed October 25, 2022."
+			]
+		},
+		"Michael": {
+			"gender": "m",
+			"meanings": [
+				"Who is like God?"
+			],
+			"origins": [
+				"biblical"
+			],
+			"nicknames": [
+				"Mike",
+				"Mikey"
+			],
+			"popularityIndex": 12,
+			"sources": [
+				"Campbell, M. Published September 25, 2021. Michael: Meaning, origin and history of the name Michael. Behind the Name. Retrieved from <https://www.behindthename.com/name/michael>.",
+				"Plant, R. Published July 3, 2021. Michael Name Meaning. Verywell Family. Retrieved from <https://www.verywellfamily.com/michael-name-meaning-5115812>."
+			]
+		}
 	}
 }
