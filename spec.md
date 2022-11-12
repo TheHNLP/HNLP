@@ -1,5 +1,5 @@
 # The HNLP database specification
-*Version 1.2.0*<br />
+*Version 1.2.1*<br />
 *Last updated November 11, 2022*
 
 This document is a specification for Human Name Listing Project (HNLP) databases that use JSON.
@@ -18,10 +18,10 @@ The version number is represented as a JSON string, with the key "version", insi
 object as defined in Section 1.
 
 ## 2. The "names" object
-Each database contains a JSON object, "names", that contains the list of names in
+Every database contains a JSON object, "names", that contains the list of names in
 the database.
 
-Each name is defined in an entry in the "names" object, whose key is the name and
+Every name is defined in an entry in the "names" object, whose key is the name and
 the value is a JSON object defining the name.
 
 ## 3. Name definitions
@@ -65,16 +65,22 @@ This is an example of a simple database, with a name definition.
 		"version": "1.2"
 	},
 	"names": {
-		"Name1": {
+		"Michael": {
 			"gender": "m",
-			"meaning": "Meaning1"
-			"nicknames": [
-				"Nickname1"
+			"meanings": [
+				"Who is like God?"
 			],
-			"popularityPercentage": 1,
-			"popularityIndex": 100,
+			"origins": [
+				"biblical"
+			],
+			"nicknames": [
+				"Mike",
+				"Mikey"
+			],
+			"popularityIndex": 12,
 			"sources": [
-				"https://example.com"
+				"Campbell, M. Published September 25, 2021. Michael: Meaning, origin and history of the name Michael. Behind the Name. Retrieved from <https://www.behindthename.com/name/michael>.",
+				"Plant, R. Published July 3, 2021. Michael Name Meaning. Verywell Family. Retrieved from <https://www.verywellfamily.com/michael-name-meaning-5115812>."
 			]
 		}
 	}
