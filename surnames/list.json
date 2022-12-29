@@ -3,5 +3,18 @@
 		"version": "1.2"
 	},
 	"names": {
+		"Nascimento": {
+			"gender": "m",
+			"meanings": [
+				"nativity of Jesus Christ"
+			],
+			"origins": [
+				"Portuguese",
+				"religious"
+			],
+			"sources": [
+				"Giacometti, F. A. P. (2019). O Nome do Homem Casado [Doctoral dissertation, Universidade Estadual Paulista]. Agenda Pós-Graduação UNESP, Faculdade de Ciências e Letras - Campus de Araraquara. https://agendapos.fclar.unesp.br/agenda-pos/educacao_escolar/5044.pdf."
+			]
+		}
 	}
 }
